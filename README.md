@@ -10,4 +10,4 @@ Welcome to my first GitHub repository! 🎉 This project is my starting point fo
 ## 🛠 How to Use This Repository
 1. Clone this repository using:  
    ```sh
-   git clone <[your-repo-url](https://github.com/Farhanmalikgh/fmgh56.git)>
+   git clone (https://github.com/Farhanmalikgh/fmgh56.git)>
